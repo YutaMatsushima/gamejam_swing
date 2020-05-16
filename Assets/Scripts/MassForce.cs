@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MassForce : MonoBehaviour
 {
-    Vector3 gforce = new Vector3(0f, -5.0f, 0f);
+    Vector3 gforce = new Vector3(0f, -8.0f, 0f);
     private Rigidbody rb;
     void Start()
     {
